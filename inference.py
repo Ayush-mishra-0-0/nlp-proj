@@ -18,8 +18,7 @@ for i,row in tqdm(df.iterrows()):
     input = preprocess_case(input)
     df.at[i,'Input'] = input
 
-peft_model_dir = "llama_pred_exp" #finetuned model dir
-# load base LLM model and tokenizer
+peft_model_dir = "llama_pred_exp" 
 trained_model = AutoPeftModelForCausalLM.from_pretrained(
     peft_model_dir,
     low_cpu_mem_usage=True,
