@@ -137,7 +137,7 @@ Ensure you have the following installed:
 
 ## 🤝 **Acknowledgments**
 
-This project was developed as part of **DS504: Natural Language Processing** at IIT Bhilai by:
+This project was developed as part of **DS504: Natural Language Processing** by:
 
 - **Aditya Prakash**
 - **Akshat Kumar**
