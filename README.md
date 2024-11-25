@@ -135,17 +135,6 @@ Ensure you have the following installed:
 
 ---
 
-## 🤝 **Acknowledgments**
-
-This project was developed as part of **DS504: Natural Language Processing** by:
-
-- **Aditya Prakash**
-- **Akshat Kumar**
-- **Ayush Kumar Mishra**
-- **Shivam**
-
----
-
 ## 📚 **References**
 
 1. Here's how you can include the link to your paper in the README:
